@@ -15,7 +15,7 @@ setup(
     python_requires='>=3.6.1, <3.10',
     install_requires=[
         'scikit-learn',
-        'pandas<=1.0.3',
+        'pandas',
         'requests',
         'appdirs'
       ],
